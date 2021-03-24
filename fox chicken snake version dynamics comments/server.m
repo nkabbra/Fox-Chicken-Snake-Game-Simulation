@@ -1,7 +1,7 @@
 %##########################################################################
 %                       FOX, CHICKEN, SNAKE GAME
 %##########################################################################
-%
+%%%
 % This is the main code that needs to be run to start the simulation
 
 clc;
